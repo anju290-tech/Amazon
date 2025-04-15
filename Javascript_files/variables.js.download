@@ -1,0 +1,28 @@
+// var Bunny="Playing"
+
+// console.log(Bunny)
+
+// var Bunny="Dancing"
+
+// console.log(Bunny)
+
+//--------------------------
+
+// let school='primary'
+
+// console.log(school)
+
+// let college='nursery'
+
+// console.log(school)
+
+//--------------------------
+
+
+const ground='Stadium'
+
+console.log(ground)
+
+ground='something'
+
+console.log(ground)
